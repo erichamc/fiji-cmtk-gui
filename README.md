@@ -14,6 +14,7 @@ Install
     * To see this folder on a Mac you need to show Fiji in the Finder
     * Then Right Click and choose Show Package Contents
     * then navigate to the `plugins/Scripts/Plugins` subfolder
+  * Copy the `cmtkgui.py` file to the `plugins` subfolder of Fiji
   * (Re)start Fiji
   * Choose **Plugins ... CMTK Registration ... Install CMTK**
 
